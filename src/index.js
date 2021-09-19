@@ -1,15 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
 import './index.css';
-// import App from './App';
+import Card from './card.js'
 import reportWebVitals from './reportWebVitals';
+import 'tachyons'
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>Hello World</h1>
-    <h2>yestday is gone</h2>
-    <App/>
+    <div>
+      <Card/>
+      <Card/>
+      <Card/>
+    </div>
     
   </React.StrictMode>,
   document.getElementById('root')
