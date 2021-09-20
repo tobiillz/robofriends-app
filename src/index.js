@@ -4,13 +4,14 @@ import './index.css';
 import Card from './card.js'
 import reportWebVitals from './reportWebVitals';
 import 'tachyons'
+import {robots} from './robots'
 
 ReactDOM.render(
   <React.StrictMode>
     <div>
-      <Card/>
-      <Card/>
-      <Card/>
+      <Card name={robots[0].name} email={robots[0].email}/>
+      <Card name={robots[1].name} email={robots[1].email}/>
+      <Card name={robots[2].name} email={robots[2].email}/>
     </div>
     
   </React.StrictMode>,
