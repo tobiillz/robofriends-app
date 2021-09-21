@@ -16,6 +16,54 @@ export const robots = [
         name:'Ster edme',
         username: 'Ster',
         email: 'ster.edme@gmail.com'
+    },
+    {
+        id: 3,
+        name:'Ster edme',
+        username: 'Ster',
+        email: 'ster.edme@gmail.com'
+    },
+    {
+        id: 4,
+        name:'Ster edme',
+        username: 'Ster',
+        email: 'ster.edme@gmail.com'
+    },
+    {
+        id: 5,
+        name:'Ster edme',
+        username: 'Ster',
+        email: 'ster.edme@gmail.com'
+    },
+    {
+        id: 6,
+        name:'Ster edme',
+        username: 'Ster',
+        email: 'ster.edme@gmail.com'
+    },
+    {
+        id: 7,
+        name:'Ster edme',
+        username: 'Ster',
+        email: 'ster.edme@gmail.com'
+    },
+    {
+        id: 8,
+        name:'Ster edme',
+        username: 'Ster',
+        email: 'ster.edme@gmail.com'
+    },
+    {
+        id: 9,
+        name:'Ster edme',
+        username: 'Ster',
+        email: 'ster.edme@gmail.com'
+    },
+    {
+        id: 10,
+        name:'Ster edme',
+        username: 'Ster',
+        email: 'ster.edme@gmail.com'
     }
 
 ]
