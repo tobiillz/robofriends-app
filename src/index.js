@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Card from './card.js'
+// import Card from './card.js'
 import reportWebVitals from './reportWebVitals';
 import 'tachyons'
 import {robots} from './robots'

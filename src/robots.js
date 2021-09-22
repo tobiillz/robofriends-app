@@ -59,11 +59,11 @@ export const robots = [
         username: 'Ster',
         email: 'ster.edme@gmail.com'
     },
-    {
-        id: 10,
-        name:'Ster edme',
-        username: 'Ster',
-        email: 'ster.edme@gmail.com'
-    }
+    // {
+    //     id: 10,
+    //     name:'Ster edme',
+    //     username: 'Ster',
+    //     email: 'ster.edme@gmail.com'
+    // }
 
 ]
