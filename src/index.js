@@ -4,15 +4,11 @@ import './index.css';
 // import Card from './card.js'
 import reportWebVitals from './reportWebVitals';
 import 'tachyons'
-import {robots} from './robots'
-import CardList from './CardList'
+import App from './App'
 
 ReactDOM.render(
   <React.StrictMode>
-    <div>
-      <CardList robots={robots} />
-    </div>
-    
+    <App/>  
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 // import { robots } from "./robots";
 import Card from "./card";
 
