@@ -2,68 +2,76 @@ export const robots = [
     {
         id: 0 ,
         name:'Jane Doe',
-        username: 'Joe',
+        username: 'zero',
         email: 'jane.doe@gmail.com'
     },
     {
         id: 1,
         name:'Jamie lee',
-        username: 'Jlee',
+        username: 'one',
         email: 'jamie.lee@gmail.com'
     },
     {
         id: 2,
-        name:'Ster edme',
-        username: 'Ster',
+        name:'Ster two',
+        username: 'two',
         email: 'ster.edme@gmail.com'
     },
     {
         id: 3,
-        name:'Ster edme',
-        username: 'Ster',
+        name:'Robot three',
+        username: 'Three',
         email: 'ster.edme@gmail.com'
     },
     {
         id: 4,
-        name:'Ster edme',
-        username: 'Ster',
+        name:'Robot four',
+        username: 'Four',
         email: 'ster.edme@gmail.com'
     },
     {
         id: 5,
-        name:'Ster edme',
-        username: 'Ster',
+        name:'Robot Five',
+        username: 'Five',
         email: 'ster.edme@gmail.com'
     },
     {
         id: 6,
-        name:'Ster edme',
-        username: 'Ster',
+        name:'Robot Six',
+        username: 'Six',
         email: 'ster.edme@gmail.com'
     },
     {
         id: 7,
-        name:'Ster edme',
-        username: 'Ster',
+        name:'Robot seven',
+        username: 'Seven',
         email: 'ster.edme@gmail.com'
     },
     {
         id: 8,
-        name:'Ster edme',
-        username: 'Ster',
+        name:'Robot eight',
+        username: 'Eight',
         email: 'ster.edme@gmail.com'
     },
     {
         id: 9,
-        name:'Ster edme',
-        username: 'Ster',
+        name:'Robot nine',
+        username: 'nine',
         email: 'ster.edme@gmail.com'
-    },
+    }
+    // ,
     // {
     //     id: 10,
-    //     name:'Ster edme',
-    //     username: 'Ster',
+    //     name:'Robot ten',
+    //     username: 'ten',
+    //     email: 'ster.edme@gmail.com'
+    // },
+    // {
+    //     id: 11,
+    //     name:'Robot eleven',
+    //     username: 'eleven',
     //     email: 'ster.edme@gmail.com'
     // }
+   
 
 ]
