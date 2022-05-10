@@ -1,4 +1,6 @@
-Here is alink to the live site 
+Here is a link to the live site 
+
+-----------------------------------------------------------------------------------------
 
 https://robofriendsapplication.herokuapp.com/
 
